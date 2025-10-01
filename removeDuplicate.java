@@ -23,7 +23,7 @@ public class RemoveDuplicate
 	}
 	public static void main(String[] args) 
 	{
-int[] nums = {1,2,2};
+        int[] nums = {1,2,2};
         
         int k = removeDuplicate(nums);
         System.out.println("Unique count = " + k);
